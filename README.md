@@ -21,16 +21,13 @@ Note: Some features may be added or removed as development progresses.
 
 ## Images of Implemented Features
 
-### **List of Servers**<br>
-![](https://media.discordapp.net/attachments/878898702524231681/1061231340349050981/IMG_20230107_155918.jpg?width=316&height=612 "")
-
-**Serverlist with channels**<br>
+**Servers with channels**<br>
 ![](https://media.discordapp.net/attachments/878898702524231681/1061231340642639872/Screenshot_2023-01-07-15-53-49-878_com.chat.shinchan.jpg?width=283&height=612)
 
-**Normal messages with image attachments**<br>
+**Textarea with normal and images**<br>
 ![](https://media.discordapp.net/attachments/878898702524231681/1061231339526967347/IMG_20230107_160040.jpg?width=315&height=612)
 
-**Showing metadata of website as embed**<br>
+**Metadata of website as embed**<br>
 ![](https://media.discordapp.net/attachments/878898702524231681/1061231756398825522/IMG_20230107_160556.jpg?width=314&height=612)
 
 **Voice Channel**<br>

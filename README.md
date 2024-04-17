@@ -22,16 +22,16 @@ Note: Some features may be added or removed as development progresses.
 ## Images of Implemented Features
 
 **Servers with channels**<br>
-![](https://media.discordapp.net/attachments/878898702524231681/1061231340642639872/Screenshot_2023-01-07-15-53-49-878_com.chat.shinchan.jpg?width=283&height=612)
+![](https://github.com/Rohit3523/Shinchan-Chat/blob/main/images/IMG_20230107_160125.jpg?raw=true)
 
 **Textarea with normal and images**<br>
-![](https://media.discordapp.net/attachments/878898702524231681/1061231339526967347/IMG_20230107_160040.jpg?width=315&height=612)
+![](https://github.com/Rohit3523/Shinchan-Chat/blob/main/images/IMG_20230107_160040.jpg?raw=true)
 
 **Metadata of website as embed**<br>
-![](https://media.discordapp.net/attachments/878898702524231681/1061231756398825522/IMG_20230107_160556.jpg?width=314&height=612)
+![](https://github.com/Rohit3523/Shinchan-Chat/blob/main/images/IMG_20230107_160408.jpg?raw=true)
 
 **Voice Channel**<br>
 ![](https://media.discordapp.net/attachments/878898702524231681/1061231339795394560/IMG_20230107_160002.jpg?width=316&height=611)
 
 **Create Channel**<br>
-![](https://media.discordapp.net/attachments/878898702524231681/1061231340034465853/IMG_20230107_155936.jpg?width=315&height=613)
+![](https://github.com/Rohit3523/Shinchan-Chat/blob/main/images/IMG_20230107_155936.jpg?raw=true)
